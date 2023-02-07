@@ -12,8 +12,18 @@
 }
 
 .heading > i {
-  font-size: 30px;
+  font-size: 35px;
   margin-right: 10px;
+}
+
+.heading > a {
+  color: black;
+  font-size: 30px;
+}
+
+.heading > a:hover {
+  text-decoration: none;
+  color: black;
 }
 
 .container {
